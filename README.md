@@ -12,7 +12,7 @@ select google website https://cloud.google.com/sdk/docs/downloads-versioned-arch
 There was an error when I executed the above code installation
 “-bash: install.sh: command not found”
 ## solve
-1. create 
+1.create 
 
 console: touch .bash_profile
 
